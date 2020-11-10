@@ -1,2 +1,3 @@
 # boidfarm
+![img](superboidsim.PNG)
 
