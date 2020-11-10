@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_play_pause"
+        android:orderInCategory="100"
+        android:title="@string/play_pause"
+        android:icon="@drawable/ic_pause_white_48dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/zoom_in"
+        android:title="@string/zoom_in"
+        android:icon="@drawable/ic_zoom_in_white_48dp"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/zoom_out"
+        android:title="@string/zoom_out"
+        android:icon="@drawable/ic_zoom_out_white_48dp"
+        app:showAsAction="ifRoom"/>
+
+</menu>
