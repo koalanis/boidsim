@@ -1,3 +1,3 @@
-# boidfarm
+# boidsim
 ![img](superboidsim.PNG)
 
